@@ -1,4 +1,4 @@
-## We move to Codeberg. Please follow -> 
+## We moved to Codeberg. Please follow -> 
 https://codeberg.org/thinking_tools
 <!--
 
